@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541708743642",
+    "firebase_url": "https://koebenhavnserhvervsbank.firebaseio.com",
+    "project_id": "koebenhavnserhvervsbank",
+    "storage_bucket": "koebenhavnserhvervsbank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541708743642:android:bcf3ccadc2ba99b0",
+        "android_client_info": {
+          "package_name": "com.example.kbenhavnserhvervsbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541708743642-qrm4ktckgjr2a31j6o210vdgui2tc5ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kbenhavnserhvervsbank",
+            "certificate_hash": "4a1f17c95c24b8ad6abad2718536b7e1636454a8"
+          }
+        },
+        {
+          "client_id": "541708743642-8d8q9ellkm1srhc63gjhst36uh0ga4v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj3wmFwORdLaCEDHm0y4IYyuXhbZijJZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541708743642-8d8q9ellkm1srhc63gjhst36uh0ga4v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
